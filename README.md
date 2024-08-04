@@ -7,8 +7,6 @@
 
 # [_Backpack Skyscanner_]
 
-[_Add a brief description of your project here._]
-
 ## npm script commands
 
 `backpack-react-scripts` is listed as a `devDependency` in your [package.json](./package.json) and exposes the following npm scripts:
